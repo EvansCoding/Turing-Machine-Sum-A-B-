@@ -1,0 +1,10 @@
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\bin\Debug\TuringA+B.exe.config
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\bin\Debug\TuringA+B.exe
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\bin\Debug\TuringA+B.pdb
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA+B.csprojAssemblyReference.cache
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA_B.main.resources
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA_B.Properties.Resources.resources
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA+B.csproj.GenerateResource.cache
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA+B.csproj.CoreCompileInputs.cache
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA+B.exe
+D:\Dthu\Otomat và ngôn ngữ hình thức\TuringA+B\TuringA+B\obj\Debug\TuringA+B.pdb
